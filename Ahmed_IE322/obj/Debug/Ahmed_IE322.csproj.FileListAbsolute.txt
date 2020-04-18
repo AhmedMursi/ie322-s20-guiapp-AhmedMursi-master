@@ -1,0 +1,17 @@
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\bin\Debug\Ahmed_IE322.exe.config
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\bin\Debug\Ahmed_IE322.exe
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\bin\Debug\Ahmed_IE322.pdb
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.csprojAssemblyReference.cache
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.Properties.Resources.resources
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.csproj.GenerateResource.cache
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.exe
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.pdb
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.frmradio.resources
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.csproj.CoreCompileInputs.cache
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.frmCheck.resources
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.frmRandomCombo.resources
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.frmCombo.resources
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.frmPic01.resources
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.frmRandom.resources
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.frmPic02.resources
+D:\IE322_1847014\Ahmed_IE322\Ahmed_IE322\obj\Debug\Ahmed_IE322.frmMain.resources
